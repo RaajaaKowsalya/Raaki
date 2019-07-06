@@ -16,6 +16,10 @@ import com.asminds.emp.model.LeaveApplyModel;
 @Controller
 public class EmpControllerClass 
 {
+	
+	
+	
+	
 	@RequestMapping("/") 
 	public String index()
 	{
